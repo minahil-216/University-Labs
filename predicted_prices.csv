@@ -1,0 +1,4 @@
+Square_Footage,Num_Bedrooms,Num_Bathrooms,Year_Built,Lot_Size,Garage_Size,Neighborhood_Quality,Predicted_Price
+1500,3,2,1995,1.2,1,6,341172.82
+2800,4,3,2010,2.5,2,8,658858.09
+900,1,1,1970,0.5,0,4,152183.0
